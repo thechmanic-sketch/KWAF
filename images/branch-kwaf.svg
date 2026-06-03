@@ -1,0 +1,18 @@
+<svg viewBox="0 0 300 140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="140" fill="#1A0F00"/>
+  <!-- Sky gradient stars -->
+  <circle cx="40" cy="20" r="1" fill="#C9A84C" opacity="0.4"/>
+  <circle cx="80" cy="12" r="0.8" fill="#C9A84C" opacity="0.3"/>
+  <circle cx="140" cy="8" r="1" fill="#C9A84C" opacity="0.5"/>
+  <circle cx="200" cy="15" r="0.8" fill="#C9A84C" opacity="0.3"/>
+  <circle cx="260" cy="10" r="1" fill="#C9A84C" opacity="0.4"/>
+  <!-- Main Drakensberg range -->
+  <polygon points="0,140 0,90 20,78 40,85 60,55 80,68 100,40 120,52 140,28 160,44 180,32 200,48 220,35 240,58 260,42 280,60 300,50 300,140" fill="#C9A84C" opacity="0.85"/>
+  <!-- Mid range shadow -->
+  <polygon points="0,140 0,105 30,95 60,100 90,85 120,92 150,78 180,88 210,80 240,90 270,82 300,88 300,140" fill="#8B6914" opacity="0.7"/>
+  <!-- Foreground hills -->
+  <polygon points="0,140 0,118 50,110 100,115 150,105 200,112 250,108 300,115 300,140" fill="#5C3D08" opacity="0.6"/>
+  <!-- Moon -->
+  <circle cx="255" cy="28" r="12" fill="none" stroke="#C9A84C" stroke-width="1" opacity="0.5"/>
+  <circle cx="261" cy="28" r="12" fill="#1A0F00"/>
+</svg>
